@@ -1,0 +1,30 @@
+{
+  "id": "3572390",
+  "name": "zhiliuping",
+  "font_family": "iconfont-ZLP",
+  "css_prefix_text": "icon-ZLP-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "409444",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "16319627",
+      "name": "报警闪烁",
+      "font_class": "baojingshanshuo",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "26659378",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}

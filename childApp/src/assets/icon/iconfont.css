@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "iconfont-ZLP"; /* Project id 3572390 */
+  src: url('iconfont.woff2?t=1659800310934') format('woff2'),
+       url('iconfont.woff?t=1659800310934') format('woff'),
+       url('iconfont.ttf?t=1659800310934') format('truetype'),
+       url('iconfont.svg?t=1659800310934#iconfont-ZLP') format('svg');
+}
+
+.iconfont-ZLP {
+  font-family: "iconfont-ZLP" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ZLP-tuichu:before {
+  content: "\e612";
+}
+
+.icon-ZLP-baojingshanshuo:before {
+  content: "\e68f";
+}
+
+.icon-ZLP-zhuye:before {
+  content: "\e615";
+}
+

@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "FZXH1JW";
+  src: url('./字体包/FZXH1JW.TTF') format('opentype');
+
+}
+
+@font-face {
+  font-family: "DIN Condensed Bold";
+  src: url('./字体包/DIN Condensed Bold.ttf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "DIN-Black";
+  src: url('./字体包/DIN-Black.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "DIN-Bold";
+  src: url('./字体包/DIN-Bold.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "DIN-Light";
+  src: url('./字体包/DIN-Light.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "DIN-Medium";
+  src: url('./字体包/DIN-Medium.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "impact";
+  src: url('./字体包/impact.ttf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "SourceHanSansCN-Bold";
+  src: url('./字体包/SourceHanSansCN-Bold.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "SourceHanSansCN-Medium";
+  src: url('./字体包/SourceHanSansCN-Medium.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "SourceHanSansCN-Normal";
+  src: url('./字体包/SourceHanSansCN-Normal.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: "SourceHanSansCN-Regular";
+  src: url('./字体包/SourceHanSansCN-Regular.otf') format('opentype');
+
+}
+@font-face {
+  font-family: "S_GO_DIGITAL_REGULAR";
+  src: url('./字体包/S_GO_DIGITAL_REGULAR.TTF') format('opentype');
+
+}
